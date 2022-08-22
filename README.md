@@ -2,7 +2,7 @@
 <h3 align="center">I am a Java backend developer and a competitive programmer from India <img src="https://1.bp.blogspot.com/-kP6bmmixhvg/YDbA3kZ-75I/AAAAAAAA4Os/YS5VBD0fGnMgMteNDso4OWSsD-alvMyhgCLcBGAsYHQ/s0/Flag_of_India.gif" width="50px" height="32"></h3>
 
 <p align="center">
-<a href="#" ><img width="800" height="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQFrPCIH1X5SYw/profile-displaybackgroundimage-shrink_200_800/0/1661166614039?e=2147483647&v=beta&t=VeACW2uyTjCp4yOyn7opQp98XSMLMkIvqHNsxxrls34" height="175px"/></a>
+<a href="#" ><img width="800" height="auto" src="https://github.com/divyamrai28/divyamrai28/blob/main/Divyam%20Rai.gif?raw=true" height="175px"/></a>
 </p>
 
 <p align="center">
