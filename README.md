@@ -13,11 +13,27 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=400&color=34BA7A&width=435&lines=Hello%2C+my+name+is+Divyam+Rai.;I'm+a+Java+Backend+Developer;I+%E2%9D%A4+competitive+programming;I+%E2%9D%A4+DSA)](https://git.io/typing-svg) </div>
 
-## 🙋‍♂️ About Me
-- ⚡ Interesting fact:  **I am an Astrophile ⭐️**
-- 📫 How to reach me:  **divyamrai2811@gmail.com**
-- 🔭 I’m currently working on building **microservices application using Spring Boot.**
+<img src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" align="right" alt="Coder GIF" width="460" height="300">
 
+<div>
+    
+## 🙋‍♂️ About Me
+- 🔭 I might currently be **sleeping😴** or **working on my laptop.👨‍💻**
+- 🌱 Currently **Backend Software Engineer @ HCL Technologies.💻**
+- 💬 Ask me about 
+    **♛Chess**, **💻Coding/DSA**, **🚗Cars/Bikes**, **👨‍💻New Tech**,
+    **🎵Music**, **👨‍🚀Astronomy (I am an Astrophile ⭐️)**
+- 😄 Pronouns: He/Him 😌.
+- 📫 How to reach me:  **divyamrai2811@gmail.com**
+    
+</div>
+
+<span>
+    
+</span>
+
+</br>
+    
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
