@@ -59,7 +59,7 @@
 <a href = "https://in.linkedin.com/in/divyamrai/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
-## ❤ Views and Followers
+## Views and Followers ❤
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=divyamrai28">
 </a>
