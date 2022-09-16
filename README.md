@@ -48,6 +48,16 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
+</br>
+
+<div align="center">
+
+## <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" width="165px" height="42">
+[![LeetCode Stats](https://leetcard.jacoblin.cool/divyamRai?hide=ranking,width=500&height=330,theme=light,unicorn&font=spacemono&ext=heatmap)](https://leetcode.com/divyamRai)
+</div>
+
+------
+
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divyamrai28&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
