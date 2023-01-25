@@ -19,7 +19,7 @@
     
 ## 🙋‍♂️ About Me
 - 🔭 I might currently be **sleeping😴** or **working on my laptop.👨‍💻**
-- 🌱 Working as **Backend Software Engineer @ HCL Technologies.💻**
+- 🌱 Working as **Applications Development Programmer Analyst 2 @ CITI💻**
 - 💬 Ask me about 
     **♛Chess**, **💻Coding/DSA**, **🚗Cars/Bikes**, **👨‍💻New Tech**,
     **🎵Music**, **👨‍🚀Astronomy (I am an Astrophile ⭐️)**
